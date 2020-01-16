@@ -6,11 +6,8 @@
 pip install awscli
 ```
 
-```bash
-pip show awscli
-```
-
-```
+```console
+[~]> pip show awscli
 Name: awscli
 Version: 1.16.309
 Summary: Universal Command Line Environment for AWS.
@@ -22,6 +19,7 @@ Location: /Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-p
 Requires: PyYAML, botocore, docutils, s3transfer, rsa, colorama
 Required-by:
 ```
+
 
 
 
